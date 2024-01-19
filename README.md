@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aneeta098
 - 👀 I’m interested in Data Science and AI
 - 
-- 🌱 I’m currently learning  python coding for Machine Learning
+- 🌱 I’m currently doing  python coding for Machine Learning
 - 💞️ I’m looking to collaborate on Data Science and ML projects
 - 📫 How to reach me ...
 
